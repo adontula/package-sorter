@@ -17,7 +17,7 @@ python -m package_sort
 First set up a virtual environment and install pytest:
 ```shell
 python -m venv .venv
-source .venv/bin.activate
+source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
